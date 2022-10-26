@@ -35,6 +35,12 @@
         <td>Madrigal Tercero</td>
         <td>15</td>
         </tr>
+        <tr>
+        <th scope="row">3</th>
+        <td>Ricardo</td>
+        <td>Colín Maldonado</td>
+        <td>26</td>
+        </tr>
     </tbody>
 
     </table>
