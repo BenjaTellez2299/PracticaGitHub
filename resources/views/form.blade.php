@@ -19,8 +19,8 @@
 
             @foreach($errors->all() as $error)
 
-            <div class="alert alert-danger alert-dismissible fade show" role="alert">
-                <strong>Formulario Incompleto!</strong>
+            <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                <strong>Formulario Mal, Checalo!</strong>
                 <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
             </div>
 
