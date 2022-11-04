@@ -36,10 +36,16 @@
         <td>15</td>
         </tr>
         <tr>
-        <th scope="row">3</th>
+        <th scope="row">4</th>
         <td>Ricardo</td>
         <td>Colín Maldonado</td>
         <td>26</td>
+        </tr>
+        <tr>
+        <th scope="row">5</th>
+        <td>Mayra</td>
+        <td>García Valdez</td>
+        <td>12</td>
         </tr>
     </tbody>
 
